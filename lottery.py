@@ -6,7 +6,6 @@ import random
 
 from telegram import Update
 from telegram.ext import Updater, CommandHandler, CallbackContext
-import telebot
 import requests
 import re
 
