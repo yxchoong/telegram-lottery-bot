@@ -17,7 +17,7 @@ By clicking the command handler:
 
 ## Steps to Run 
 1. Install the library 
-pip3 install python-telegram-bot 
+```pip3 install python-telegram-bot``` 
 
 2. Run the program 
-python lottery.py
+```python lottery.py```
