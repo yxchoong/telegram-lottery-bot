@@ -1,5 +1,7 @@
 # Telegram Lottery Bot 
 
+Telegram handle: @givemegoodluckbot
+
 ## About
 This bot serves as a convenient medium for users to generate TOTO and 4D Lottery numbers.  The user can also easily get linked to the Singapore Pools portal or latest news about Singapore Lotteries.  
 
