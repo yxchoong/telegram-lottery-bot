@@ -1,4 +1,5 @@
-# Telegram Lottery Bot 
+# Huat my Lottery!
+## Telegram Lottery Bot 
 
 Telegram link: https://telegram.me/givemegoodluckbot
 
